@@ -28,7 +28,7 @@ export const managers = [
        {
     // 01 
          "managerID": "469508478403080192",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-         "name": "Your Name",
+         "name": "Bobbotron",
     //   "location": "Brooklyn", // (optional)
          "bio": "Lorem ipsum...",
     //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -74,7 +74,7 @@ export const managers = [
      {
     // 03 
          "managerID": "858768504868970496",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-         "name": "Your Name",
+         "name": "deebs21",
     //   "location": "Brooklyn", // (optional)
          "bio": "Lorem ipsum...",
     //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -97,7 +97,7 @@ export const managers = [
         {
     // 04 
          "managerID": "856337934406758400",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-         "name": "Your Name",
+         "name": "Chumps101",
     //   "location": "Brooklyn", // (optional)
          "bio": "Lorem ipsum...",
     //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -120,7 +120,7 @@ export const managers = [
        {
     // 05 
          "managerID": "720424373617520640",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-         "name": "Your Name",
+         "name": "BeeWEEZY10",
     //   "location": "Brooklyn", // (optional)
          "bio": "Lorem ipsum...",
     //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -143,7 +143,7 @@ export const managers = [
      {
     // 06 
          "managerID": "865007156980764672",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-         "name": "Your Name",
+         "name": "Cdubb22",
     //   "location": "Brooklyn", // (optional)
          "bio": "Lorem ipsum...",
     //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -166,7 +166,7 @@ export const managers = [
       {
     // 07 
          "managerID": "862358521767915520",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-         "name": "Your Name",
+         "name": "timprobst10",
     //   "location": "Brooklyn", // (optional)
          "bio": "Lorem ipsum...",
     //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -189,7 +189,7 @@ export const managers = [
        {
     // 08 
          "managerID": "858904423475298304",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-         "name": "Your Name",
+         "name": "GriesedieckGangster",
     //   "location": "Brooklyn", // (optional)
          "bio": "Lorem ipsum...",
     //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -212,7 +212,7 @@ export const managers = [
        {
     // 09 
          "managerID": "76480998334152704",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-         "name": "Your Name",
+         "name": "belushi",
     //   "location": "Brooklyn", // (optional)
          "bio": "Lorem ipsum...",
     //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -235,7 +235,7 @@ export const managers = [
        {
     // 10 
          "managerID": "85231769196314624",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-         "name": "Your Name",
+         "name": "pridecrushers",
     //   "location": "Brooklyn", // (optional)
          "bio": "Lorem ipsum...",
     //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
