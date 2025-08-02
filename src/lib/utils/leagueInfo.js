@@ -9,15 +9,12 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
 <p>Where fantasy football isn’t just a season-long sprint, it’s a year-round obsession. Built for diehards who treat roster-building like an art and Sundays like sacred rituals, this is where legacies are built and dynasties are forged.</p> \
 <p><strong>What We’re About</strong></p> \
-<p>This isn’t your average Dynasty league. Here in the <strong>Deebs Dynasty</strong>, you’re not just managing a team — you’re building a franchise. Trades don’t just affect next week, they ripple into next year. Rookies matter. Depth matters. And making the right move in May can win you a trophy in December.</p> \
+<p>This isn’t your average Dynasty league. Here in the <strong>Deebs Dynasty</strong>, you’re not just managing a team — you’re building a franchise. Trades don’t just affect next week, they ripple into next year. Rookies matter. Depth matters. And making the right moves in August can win you a trophy in December.</p> \
 <p><strong>Key Features:</strong></p> \
 <ul> \
-  <li><strong>Year-Round Action</strong> – From rookie drafts to trade deadlines, there's always something going on.</li> \
-  <li><strong>League History & Stats</strong> – Track rivalries, epic trades, and champions over the years.</li> \
-  <li><strong>Weekly Power Rankings & Recaps</strong> – Stay sharp. Brag better.</li> \
+  <li><strong>League History & Stats</strong> – Track rivalries, trades, and champions over the years.</li> \
+  <li><strong>Weekly Power Rankings</strong> – Stay sharp. Brag better.</li> \
 </ul> \
-<p><strong>Think you’ve got what it takes to run a dynasty?</strong><br> \
-You’re in the right place. Set your lineup, scout your rookies, and prepare for war — because in this league, the future is now.</p>
 `;
 
 /*   STEP 3   */
