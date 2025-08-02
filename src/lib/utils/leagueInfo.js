@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-"<p><strong>\uD83C\uDFB4 Welcome to the Deebs Dynasty League</strong></p> \
+<p><strong>\uD83C\uDFB4 Welcome to the Deebs Dynasty League</strong></p> \
 <p>Welcome to the official home of the <strong>Deebs Dynasty</strong> — where fantasy football isn’t just a season-long sprint, it’s a year-round obsession. Built for diehards who treat roster-building like an art and Sundays like sacred rituals, this is where legacies are built and dynasties are forged.</p> \
 <p><strong>What We’re About</strong></p> \
 <p>This isn’t your average Dynasty league. Here in the <strong>Deebs Dynasty</strong>, you’re not just managing a team — you’re building a franchise. Trades don’t just affect next week, they ripple into next year. Rookies matter. Depth matters. And making the right move in May can win you a trophy in December.</p> \
