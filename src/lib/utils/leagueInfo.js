@@ -1,20 +1,18 @@
 /*   STEP 1   */
 export const leagueID = "1220112885926088704"; // your league ID
-export const leagueName = "Deebs Dynasty 2025"; // your league name
+export const leagueName = "Welcome to Deebs Dynasty"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-<p><strong>\uD83C\uDFB4 Welcome to the Deebs Dynasty League</strong></p> \
-<p>Welcome to the official home of the <strong>Deebs Dynasty</strong> — where fantasy football isn’t just a season-long sprint, it’s a year-round obsession. Built for diehards who treat roster-building like an art and Sundays like sacred rituals, this is where legacies are built and dynasties are forged.</p> \
+<p>Where fantasy football isn’t just a season-long sprint, it’s a year-round obsession. Built for diehards who treat roster-building like an art and Sundays like sacred rituals, this is where legacies are built and dynasties are forged.</p> \
 <p><strong>What We’re About</strong></p> \
 <p>This isn’t your average Dynasty league. Here in the <strong>Deebs Dynasty</strong>, you’re not just managing a team — you’re building a franchise. Trades don’t just affect next week, they ripple into next year. Rookies matter. Depth matters. And making the right move in May can win you a trophy in December.</p> \
 <p><strong>Key Features:</strong></p> \
 <ul> \
   <li><strong>Year-Round Action</strong> – From rookie drafts to trade deadlines, there's always something going on.</li> \
-  <li><strong>Custom League Rules</strong> – Unique scoring, deep benches, and settings tailored for the dynasty experience.</li> \
   <li><strong>League History & Stats</strong> – Track rivalries, epic trades, and champions over the years.</li> \
   <li><strong>Weekly Power Rankings & Recaps</strong> – Stay sharp. Brag better.</li> \
 </ul> \
