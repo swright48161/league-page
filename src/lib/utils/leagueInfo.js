@@ -18,11 +18,8 @@ export const homepageText = `
   <li><strong>League History & Stats</strong> – Track rivalries, epic trades, and champions over the years.</li> \
   <li><strong>Weekly Power Rankings & Recaps</strong> – Stay sharp. Brag better.</li> \
 </ul> \
-<p><strong>Meet the Owners</strong></p> \
-<p>Each team is managed by a dedicated owner with their own strategy, style, and sense of humor. Some build through youth, some through savvy trades. Others just hoard draft picks and pray. Whatever the approach, it’s always competitive — and personal.</p> \
 <p><strong>Think you’ve got what it takes to run a dynasty?</strong><br> \
-You’re in the right place. Set your lineup, scout your rookies, and prepare for war — because in this league, the future is now.</p>"
-
+You’re in the right place. Set your lineup, scout your rookies, and prepare for war — because in this league, the future is now.</p>
 `;
 
 /*   STEP 3   */
